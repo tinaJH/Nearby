@@ -1,5 +1,5 @@
 //
-//  main.m
+//  SCPost.h
 //  SocialDemo
 //
 //  Created by Jinhua Xiong on 8/20/17.
@@ -7,3 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+
+@interface SCPost : NSObject
+
+@end
